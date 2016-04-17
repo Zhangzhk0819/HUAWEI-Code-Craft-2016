@@ -1,0 +1,18 @@
+#ifndef __READGRAPH_H__
+#define __READGRAPH_H__
+
+const int maxnode = 100;
+const int maxint = 60000;
+
+class ReadGraph
+{
+	public:
+		node_distance[maxnode][maxnode];
+		
+		void InitializeNodeDistance();
+	
+	private:
+		
+}
+
+#endif

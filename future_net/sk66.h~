@@ -1,0 +1,23 @@
+#ifndef __SK_H__
+#define __SK_H__
+
+#include "config.h"
+
+class SK
+{
+	public:
+		int distance_shortest;
+		
+		int SK_dist[maxvianode][maxvianode];
+		int SK_dist_prev[maxvianode][maxvianode];
+		
+		int SK_path[maxvianode][maxvianode][maxnode];
+		int SK_path_prev[maxvianode][maxvianode][maxnode];
+		
+		void NodeInsert(int *newnode, int *trace);
+		void Reset(int vector[]);
+									
+	private:		
+};
+
+#endif

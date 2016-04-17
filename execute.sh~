@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd bin
+
+#./future_net ../../test-case/case0/topo.csv ../../test-case/case0/demand.csv ../../test-case/case0/result.csv
+
+./future_net ../../test-case/case1/topo.csv ../../test-case/case1/demand.csv ../../test-case/case1/result.csv
+
+./future_net ../../test-case/case2/topo.csv ../../test-case/case2/demand.csv ../../test-case/case2/result.csv
+
+cd ..

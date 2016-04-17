@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/config.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dfs.cpp
+stdio.h
+-
+dfs.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dfs.h
+algorithm
+-
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dfs.h
+config.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/config.h
+vector
+-
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dijkstra.cpp
+stdio.h
+-
+dijkstra.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dijkstra.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dijkstra.h
+config.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/config.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/future_net.cpp
+route.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/route.h
+lib_io.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/lib_io.h
+lib_time.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/lib_time.h
+stdio.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/stdio.h
+vector
+-
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/io.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+time.h
+-
+sys/timeb.h
+-
+errno.h
+-
+unistd.h
+-
+signal.h
+-
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/lib/lib_io.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/lib/lib_record.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/lib/lib_time.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/read_graph.cpp
+stdlib.h
+-
+stdio.h
+-
+read_graph.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/read_graph.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/read_graph.h
+config.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/config.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/route.cpp
+lib_record.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/lib_record.h
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+route.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/route.h
+read_graph.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/read_graph.h
+dijkstra.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dijkstra.h
+sk.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/sk.h
+dfs.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/dfs.h
+config.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/config.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/route.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/sk.cpp
+stdio.h
+-
+sk.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/sk.h
+
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/sk.h
+config.h
+/home/zhangzhk/Desktop/HUAWEI Code Craft 2016 /SDK-gcc-1.0/future_net/config.h
+
