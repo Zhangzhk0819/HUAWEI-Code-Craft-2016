@@ -1,6 +1,8 @@
 # 华为2016软件精英挑战赛初赛题的一种实现方法 #
 # ——基于Dijkstra+DFS+剪枝 #
 
+[toc]
+
 ## 赛题简介 ##
 给定一个有向加权图G，找到从起点S到终点D，并经过指定点集V中所有点的最短路径，要求该路径不能成环。具体要求参考比赛官网:[http://codecraft.huawei.com/home/detail](http://codecraft.huawei.com/home/detail)
 
