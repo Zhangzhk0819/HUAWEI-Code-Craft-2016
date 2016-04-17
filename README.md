@@ -42,3 +42,6 @@ Dijkstra算法的具体介绍可以参考这篇博客[http://www.cnblogs.com/biy
 2. dijkstra.cpp.这个文件主要定义了Dijkstra这个类及其方法，这个类的主要作用就是计算**基本思路**中提到的几个最短距离以及最短路径所经过的点。并存储在相应数组里，方便DFS算法的使用。
 3. dfs.cpp.这个文件主要定义了DFS这个类及其方法，这个类的主要作用是就是寻找符合条件的最短路径，其主要思路在前面的内容已经提到，这里不再赘述。
 4. sk66.cpp和sk.cpp这两个文件在最后提交的代码中没有用到。这两个文件实现了[Protected shortest path visiting specified nodes](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7325218)z这篇文章提到的两个算法，不知道是算法本身有问题，还是某些细节实现有问题，运行效果并不好，所以后来改用DFS加剪枝这个方法。如果以后有时间，再补充讲一下这两个算法的基本思路。
+
+## 附录 ##
+这一节将会讲解一些关于Linux编程的相关知识，敬请期待。
