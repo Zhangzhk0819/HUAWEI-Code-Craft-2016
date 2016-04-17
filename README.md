@@ -23,7 +23,7 @@
 
 
 ## 相关算法 ##
-接下来简单介绍一下在我们算法中
+接下来简单介绍一下在我们算法中用到的经典算法
 
 ### Dijkstra算法 ###
 Dijkstra算法的具体介绍可以参考这篇博客[http://www.cnblogs.com/biyeymyhjob/archive/2012/07/31/2615833.html](http://www.cnblogs.com/biyeymyhjob/archive/2012/07/31/2615833.html)，这篇博客是我目前找到的比较好的介绍Dijkstra算法的一篇博客了。（先用着，以后有时间自己可以整理一篇）
